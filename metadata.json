@@ -1,0 +1,6 @@
+{
+  "name": "星座分析與運勢互動平台",
+  "description": "提供精準的星座個性分析、每日與每週運勢推播、星座配對評分機制、星座社群互動廣場，以及與專業 AI 命理師的即時諮詢入口。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
